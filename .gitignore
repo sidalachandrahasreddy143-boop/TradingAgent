@@ -1,0 +1,21 @@
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.secret
+*_secret.*
+secrets.*
+credentials*.json
+service-account*.json
+
+# Virtual environments
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
