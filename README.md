@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local culture-informed trading research assistant
 
 This project replaces the notebook's Colab-specific secret lookup and
@@ -86,3 +87,6 @@ maintained application and safety checks live in `trading_agent.py`; use the
 terminal command above for the full interactive workflow. The old notebook's
 Colab-install cells, direct example API calls, and saved API outputs are
 removed.
+=======
+# TradingAgent
+>>>>>>> 1a3301b6b4018cac47ddb0136d468aed59e66016
